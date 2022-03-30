@@ -1,5 +1,5 @@
 {
-  "version" : "1.0",
+  "version" : "1.0.1",
   "author" : "Kate Yagi",
   "tags" : "Weapons|In-Game Tools|Mechanics|Vehicles and Mounts",
   "description" : "A starbound mod that makes mech drill arms only break foreground blocks..\nReplaces vehicles/modularmech/armscripts/drillarm.lua with a version that doesn't break background blocks. As such, it's incompatible with any mod that also replaces that file.\n\n.pak file available on github: https://github.com/KateYagi/foreground-mech-drill \n\nTo see other mods I've made, check out my neocities: https://kateyagi.neocities.org/mods.html",
